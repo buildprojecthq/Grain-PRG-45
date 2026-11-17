@@ -1,5 +1,10 @@
 # 🔐 Grain-PRG 45 — 128-bit Stream Cipher ASIC on NanGate 45nm
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE)
+[![Technology: 45nm](https://img.shields.io/badge/NanGate-45nm_ASIC-00979D)](https://buildproject.in/projects/grain-prg-45/)
+[![Project Showcase](https://img.shields.io/badge/Showcase-buildproject.in-2563EB)](https://buildproject.in/projects/grain-prg-45/)
+[![Interactive Demo](https://img.shields.io/badge/Interactive_Demo-Grain--PRG-00C7B7)](https://buildproject.in/demos/grain-prg-45/)
+
 > **Integrated LFSR–NFSR with 8-Bit Parallel Combinational Unrolling**  
 > Department of ECE · Don Bosco Institute of Technology  
 > Authors: Jeevan R · Navyashree S · Pallavi Y · Kushal N S
@@ -317,6 +322,11 @@ bash flow_45nm_128bit/gen_ppa_reports.sh
 # Step 7: View Layout in OpenROAD GUI
 bash view_45nm_layout.sh
 ```
+
+---
+
+> 💡 **Project Showcase & Silicon Documentation:**  
+> NanGate 45nm GDSII layout viewers, timing closure benchmarks, OpenROAD synthesis walkthrough, and capstone viva defense notes are available on **[buildproject.in/projects/grain-prg-45](https://buildproject.in/projects/grain-prg-45/)**.
 
 ---
 
