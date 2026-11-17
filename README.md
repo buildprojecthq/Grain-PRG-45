@@ -2,7 +2,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE)
 [![Technology: 45nm](https://img.shields.io/badge/NanGate-45nm_ASIC-00979D)](https://buildproject.in/projects/grain-prg-45/)
-[![Project Showcase](https://img.shields.io/badge/Showcase-buildproject.in-2563EB)](https://buildproject.in/projects/grain-prg-45/)
+[![Project Showcase](https://img.shields.io/badge/Built%20by-buildproject.in-2563EB)](https://buildproject.in/projects/grain-prg-45/)
 [![Interactive Demo](https://img.shields.io/badge/Interactive_Demo-Grain--PRG-00C7B7)](https://buildproject.in/demos/grain-prg-45/)
 
 > **Integrated LFSR–NFSR with 8-Bit Parallel Combinational Unrolling**  
@@ -325,8 +325,12 @@ bash view_45nm_layout.sh
 
 ---
 
-> 💡 **Project Showcase & Silicon Documentation:**  
-> NanGate 45nm GDSII layout viewers, timing closure benchmarks, OpenROAD synthesis walkthrough, and capstone viva defense notes are available on **[buildproject.in/projects/grain-prg-45](https://buildproject.in/projects/grain-prg-45/)**.
+### 🚀 Built by [buildproject.in](https://buildproject.in/)
+
+This project was designed, synthesized, and signoff-verified by **[buildproject.in](https://buildproject.in/)**. Explore the live showcase, GDSII layout viewer, and tapeout benchmarks on the **[official project page](https://buildproject.in/projects/grain-prg-45/)**.
+
+**P.S.** Looking for a custom VLSI ASIC tapeout, Verilog RTL design, or digital semiconductor prototype?  
+👉 **[Get your project done at buildproject.in](https://buildproject.in/)** — custom RTL synthesis, timing closure, and complete academic/industry documentation.
 
 ---
 
